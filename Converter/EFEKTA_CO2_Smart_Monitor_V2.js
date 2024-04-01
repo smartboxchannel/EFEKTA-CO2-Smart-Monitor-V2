@@ -9,7 +9,6 @@ const ea = exposes.access;
 const {postfixWithEndpointName} = require('zigbee-herdsman-converters/lib/utils');
 const {calibrateAndPrecisionRoundOptions} = require('zigbee-herdsman-converters/lib/utils');
 
-
 const tzLocal = {
 	
 	co2_config: {
